@@ -1,2 +1,2 @@
-# developementOne
-developementOne is the veryfirst repository in github
+# RepositioryOne
+Repository One  is the veryfirst repository in github which was previsouly a developementOne
